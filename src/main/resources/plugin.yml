@@ -1,4 +1,4 @@
 name: bestbedrock-api
-version: '${project.version}'
+version: 1.0.0
 main: pro.bedrock.xthebest.bestbedrockapi.ApiBedrock
 api-version: '1.19'
